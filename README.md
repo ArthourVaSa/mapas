@@ -1,5 +1,7 @@
 # mapas_2
 
+Aplicación de geolocalización de colegios en Loreto
+
 A new Flutter project.
 
 ## Getting Started
