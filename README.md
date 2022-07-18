@@ -1,6 +1,6 @@
 # mapas_2
 
-Aplicación de geolocalización de colegios en Loreto
+Aplicación de geolocalización de colegios en la ciudad de Iquitos 2021
 
 A new Flutter project.
 
